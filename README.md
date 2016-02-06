@@ -23,3 +23,7 @@ dismathportfolio-LeaRulloda created by Classroom for GitHub
 | ⊕ | Exclusive disjunction | xor | T iff exactly one of p and q is T, otherwise F|
 | → | Conditional | if, then | F if p is T and q is F, otherwise T |
 | ↔ | Biconditional | iff |  T iff p and q have the same truth values |
+
+##Week 2
+- I learned some logical equivalences,
+![logical equivalences] (https://dlsuedu-my.sharepoint.com/personal/lea_rulloda_dlsu_edu_ph/_layouts/15/guestaccess.aspx?guestaccesstoken=bMY2YzZHfG3fxv5ykd6dP0jv4k%2biycRBJS6Sw%2fOqMGM%3d&docid=2_149d2ece215ac4308baad271f2b865baa)

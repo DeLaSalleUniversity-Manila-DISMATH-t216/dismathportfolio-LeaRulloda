@@ -26,4 +26,4 @@ dismathportfolio-LeaRulloda created by Classroom for GitHub
 
 ##Week 2
 - I learned some logical equivalences,
-![logical equivalences] (https://dlsuedu-my.sharepoint.com/personal/lea_rulloda_dlsu_edu_ph/_layouts/15/guestaccess.aspx?guestaccesstoken=bMY2YzZHfG3fxv5ykd6dP0jv4k%2biycRBJS6Sw%2fOqMGM%3d&docid=2_149d2ece215ac4308baad271f2b865baa)
+![logical equivalences] (https://dlsuedu-my.sharepoint.com/personal/lea_rulloda_dlsu_edu_ph/Documents/Shared%20with%20Everyone/photo%202.JPG)

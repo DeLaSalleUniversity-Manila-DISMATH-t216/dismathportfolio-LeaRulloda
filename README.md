@@ -13,3 +13,13 @@ dismathportfolio-LeaRulloda created by Classroom for GitHub
 | ⊕ | Exclusive disjunction | xor |  p ⊕ q  ≡ (¬p ∧ q) v (p ∧ ¬q) |
 | → | Conditional | if, then | p → q ≡  ¬p v q |
 | ↔ | Biconditional | iff |  p ↔ q ≡ (p → q) ∧ (q → p) |
+
+- I understood the truth value of the logical connectives (2 variables):
+
+| Logical Symbol  |  Logical Operator | Shorthand | Truth Value |
+| :-----: |:-------:|:-----:| :------------: |
+| ∧ | Conjunction | and | minimum |
+| v | Disjunction | or | maximum |
+| ⊕ | Exclusive disjunction | xor | T iff exactly one of p and q is T, otherwise F|
+| → | Conditional | if, then | F if p is T and q is F, otherwise T |
+| ↔ | Biconditional | iff |  T iff p and q have the same truth values |

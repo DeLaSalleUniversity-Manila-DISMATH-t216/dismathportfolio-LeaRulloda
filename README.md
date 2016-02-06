@@ -1,6 +1,6 @@
 # dismathportfolio-LeaRulloda
 dismathportfolio-LeaRulloda created by Classroom for GitHub
-#Week 1
+##Week 1
 | Logical Symbol  |  Logical Operator | Shorthand | Formula | Logical Expression |
 | :-----: |:-------:|:-----:| :-------: | :-------: |
 | ¬ |Negation | not | val(¬p) = 1 - val(p) | ¬p |

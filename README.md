@@ -5,24 +5,15 @@ dismathportfolio-LeaRulloda created by Classroom for GitHub
 - On our first week of classes, I learned that there are different kinds of truth such as legal, authoritative, scientific, probable, and philosophical truth. What we’re trying to learn in this course is the mathematical proof which is a chain of logical deductions leading to the proposition from a base set of axioms.
 - I learned symbols such as:
 
-| Logical Symbol  |  Logical Operator | Shorthand | Logical Expression |
-| :-----: |:-------:|:-----:| :-------: |
-| ¬ |Negation | not | ¬p |
-| ∧ | Conjunction | and | p ∧ q |
-| v | Disjunction | or | p v q |
-| ⊕ | Exclusive disjunction | xor |  p ⊕ q  ≡ (¬p ∧ q) v (p ∧ ¬q) |
-| → | Conditional | if, then | p → q ≡  ¬p v q |
-| ↔ | Biconditional | iff |  p ↔ q ≡ (p → q) ∧ (q → p) |
+| Logical Symbol  |  Logical Operator | Shorthand | Logical Expression | Value |
+| :-----: |:-------:|:-----:| :-------: | :-------: |
+| ¬ |Negation | not | ¬p | opposite |
+| ∧ | Conjunction | and | p ∧ q | minimum |
+| v | Disjunction | or | p v q | maximum |
+| ⊕ | Exclusive disjunction | xor |  p ⊕ q  ≡ (¬p ∧ q) v (p ∧ ¬q) | T iff exactly one of p and q is T, otherwise F|
+| → | Conditional | if, then | p → q ≡  ¬p v q | F if p is T and q is F, otherwise T |
+| ↔ | Biconditional | iff |  p ↔ q ≡ (p → q) ∧ (q → p) |  T iff p and q have the same truth values |
 
-- I understood the truth value of the logical connectives (2 variables):
-
-| Logical Symbol  |  Logical Operator | Shorthand | Truth Value |
-| :-----: |:-------:|:-----:| :------------: |
-| ∧ | Conjunction | and | minimum |
-| v | Disjunction | or | maximum |
-| ⊕ | Exclusive disjunction | xor | T iff exactly one of p and q is T, otherwise F|
-| → | Conditional | if, then | F if p is T and q is F, otherwise T |
-| ↔ | Biconditional | iff |  T iff p and q have the same truth values |
 
 ##Week 2
 - I learned some logical equivalences,

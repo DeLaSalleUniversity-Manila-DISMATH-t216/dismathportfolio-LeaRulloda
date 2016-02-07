@@ -14,9 +14,10 @@ dismathportfolio-LeaRulloda created by Classroom for GitHub
 | → | Conditional | if, then | p → q ≡  ¬p v q | F if p is T and q is F, otherwise T |
 | ↔ | Biconditional | iff |  p ↔ q ≡ (p → q) ∧ (q → p) |  T iff p and q have the same truth values |
 
-- I learned proving by using a truth table. The number of rows in a truth table is determined by the equation **rows = 2n** where n is the number of variables.
+- I learned proving by using a truth table. The number of rows in a truth table is determined by the equation **rows = 2^n** where n is the number of variables.
 - I learned the **Implication Equivalence** which states that p → q ≡ ¬p v q.
 - In a conditional statement for example p → q, I learned that p is called the **antecedent** and q the **consequent**.
+
 
 ##Week 2
 - I learned some logical equivalences,

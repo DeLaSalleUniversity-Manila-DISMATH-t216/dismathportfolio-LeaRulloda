@@ -78,3 +78,46 @@ q <br>
    - b. Recursive Step:
      - Give a rule for finding its value at an integer from its values at smaller integers.
 
+##Week 5
+- We were introduced to **recursive algorithms** which are algorithms that successively reduce a problem to the same problem with smaller input. We were also given some examples.
+- I learned about **program correctness**. A program is said to be correct if it produces the correct output for every possible input. A program is not proven to be correct just by testing it with a sample input, instead it is proven through **program verification**.
+  - **Program Verification** consists of two parts:
+   - a. Partial Correctness
+    - shows that the correct answer is obtained if the program terminates.
+    - **Hoare triple**
+     - notation that indicates that the program, S is partially correct with respect to the initial assertion p and the final assertion q.
+   - b. The second part shows that the program always terminates.
+- Representation of functions as **power series** was discussed. It can be thought of as a function of x that is defined inside the interval of convergence. The **Zeno’s paradox** was also mentioned. 
+- **Sets**
+  - A set is an unordered collection of distinct objects, which may be anything (including other sets).
+  - **Empty Set**
+    - contains no elements
+    - denoted by { } or ∅
+    - not equal to {∅}
+  - **Set-builder Notation**
+    - used to describe complex sets mathematically
+    - {x | some property that x satisfies}
+  - **Subsets**
+    - A set S is a subset of a set T (denotes S ⊆ T) if all elements of S are also elements of T.
+  - **Cardinality**
+    - the number of elements a set contains
+    - For a certain set S, its cardinality is denoted by |S|.
+
+##Week 6
+ - We had a review for the upcoming first quiz and we 
+ - A session was devoted to a review for the upcoming first quiz. It was concentrated on nested quantifiers.
+ - **Functions**
+  - also called mappings or transformations
+  - Let A and B be sets. A function f from A to B is an assignment of exactly one element of B to each element of A.
+  - **Types**
+      - **One-to-one or Injunction**
+        - functions that never assign the same value to two or more different domain elements
+      - **Onto or Surjection**
+        - every member of the codomain is the image of some element of the domain
+      - **One-to-one Correspondence or Bijection**
+        - functions that are both one-to-one and onto
+
+##Week 7
+:tada: NO CLASSES :tada:
+
+##Week 8

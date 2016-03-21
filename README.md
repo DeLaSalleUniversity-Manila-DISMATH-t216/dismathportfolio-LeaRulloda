@@ -121,3 +121,63 @@ q <br>
 :tada: NO CLASSES :tada:
 
 ##Week 8
+- **Algorithms**
+ - This week, I was introduced to algorithms and I can say that it is one of the hardest topics in dismath.
+ - I also learned about **pseudocode**, a high-level description of an algorithm that uses the structural conventions of a programming language, but is intended for human reading.
+ - I learned that algorithms have **properties**:
+    - *Input* - input values from a specified set
+    - *Output* - solution to the problem
+    - *Definiteness* - precisely-defined steps
+    - *Correctness* - should produce the correct output values
+    - *Finiteness* - should produce the desired output after a finite number of steps
+    - *Effectiveness* - should perform each step exactly
+    - *Generality* - should be applicable for all problems of the desired form
+ - The algorithm of finding the maximum value in a finite set of integers was discussed.
+ 
+ - This algorithm can be modified to find the minimum value by changing the if condition to min>ai.
+
+##Week 9
+- I learned two basic **searching algorithms** that solves the problem of locating an element in a list of distinct elements, or determining that it's not in the list.
+ - **The Linear Search**
+   - finds a particular value in a list that checks each element in sequence until the desired element is found
+
+ - **The Binary Search**
+   - compares the middle values of a list then repeated until the desired output is found
+
+- I also learned two **sorting algorithms** that arranges the elements of a list in increasing order.
+ - **The Bubble Sort**
+   - compares the first two elements then interchanging them if they are in the incorrect order
+
+ - **The Insertion Sort**
+   - compares the second element with the first and inserts it before the first element if it is less, otherwise inserted after
+
+- We also discussed **greedy algorithms**, algorithms that make what seems to be the best choice at each step.
+- An example of this was explained. The **greedy change-making algorithm** chooses the number of coins per denomination using the least total number of coins.
+
+
+##Week 10
+- This week we talked about the **growth of functions**.
+- **The Big-*O* Notation**
+ - the upper bound of a function
+ - *Common Big-O Estimates*
+
+- **The Big-Omega Notation**
+ - the lower bound of a function
+- **The Big-Theta Notation**
+ - provides both an upper and a lower bound
+- **Complexity of Algorithms**
+ - **Algorithm Time Complexity**
+   - can be expressed in terms of the number of operations used by the algorithm when the input has a particular size
+  - *Commonly Used Terminology*
+
+- **Division and Modulo Operator**
+ - quotient
+   - q = a div d
+ - remainder
+   - r = a mod d
+- I was also introduced to **cryptography**, the study of secret messages.
+- An example of this namely, the **Ceasar cipher**, was discused. It is the shifting each letter three letters forward in the alphabet.
+
+
+
+

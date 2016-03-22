@@ -83,9 +83,9 @@ q <br>
 - I learned about **program correctness**. A program is said to be correct if it produces the correct output for every possible input. A program is not proven to be correct just by testing it with a sample input, instead it is proven through **program verification**.
   - **Program Verification** consists of two parts:
    - a. Partial Correctness
-    - shows that the correct answer is obtained if the program terminates.
-    - **Hoare triple**
-     - notation that indicates that the program, S is partially correct with respect to the initial assertion p and the final assertion q.
+     - shows that the correct answer is obtained if the program terminates.
+     - **Hoare triple**
+       - notation that indicates that the program, S is partially correct with respect to the initial assertion p and the final assertion q.
    - b. The second part shows that the program always terminates.
 - Representation of functions as **power series** was discussed. It can be thought of as a function of x that is defined inside the interval of convergence. The **Zeno’s paradox** was also mentioned. 
 - **Sets**
@@ -133,34 +133,34 @@ q <br>
     - *Effectiveness* - should perform each step exactly
     - *Generality* - should be applicable for all problems of the desired form
  - The algorithm of finding the maximum value in a finite set of integers was discussed.
- 
+![max] (https://dlsuedu-my.sharepoint.com/personal/lea_rulloda_dlsu_edu_ph/_layouts/15/guestaccess.aspx?guestaccesstoken=EAFVssKosbcsF3LVdAEnCWJtz9dvVf8UaayKdgaEgqI%3d&docid=0153ac2bf97d143c0846b8b6b1c50508e) 
  - This algorithm can be modified to find the minimum value by changing the if condition to min>ai.
 
 ##Week 9
 - I learned two basic **searching algorithms** that solves the problem of locating an element in a list of distinct elements, or determining that it's not in the list.
  - **The Linear Search**
    - finds a particular value in a list that checks each element in sequence until the desired element is found
-
+![linear] (https://dlsuedu-my.sharepoint.com/personal/lea_rulloda_dlsu_edu_ph/_layouts/15/guestaccess.aspx?guestaccesstoken=BvIcr2qLs%2fBgpo6sEXcP8yKUe%2bDVeQJNO7cCGcA2L%2f8%3d&docid=19048cbc371104180ac79cce0a18111bf)
  - **The Binary Search**
    - compares the middle values of a list then repeated until the desired output is found
-
+![binary] (https://dlsuedu-my.sharepoint.com/personal/lea_rulloda_dlsu_edu_ph/_layouts/15/guestaccess.aspx?guestaccesstoken=iI6MdAwADH7OJo5MXx6CZ8uSsDDbhQwj%2bmE9D1WJE%2fg%3d&docid=1855b2ce1e785420081a8357e05c2082c)
 - I also learned two **sorting algorithms** that arranges the elements of a list in increasing order.
  - **The Bubble Sort**
    - compares the first two elements then interchanging them if they are in the incorrect order
-
+![bubble] (https://dlsuedu-my.sharepoint.com/personal/lea_rulloda_dlsu_edu_ph/_layouts/15/guestaccess.aspx?guestaccesstoken=RKKejXgCxMM%2b%2fAR5HBMQ2TM6qAUB7OVHkhD2IvgRlV4%3d&docid=18dcf96ba2dab446db3e608edfc9f471c)
  - **The Insertion Sort**
    - compares the second element with the first and inserts it before the first element if it is less, otherwise inserted after
-
+![insert] (https://dlsuedu-my.sharepoint.com/personal/lea_rulloda_dlsu_edu_ph/_layouts/15/guestaccess.aspx?guestaccesstoken=23iRc%2bzoiZ1aTqIW7rvKPAVqY8XZNKyK5IRVNhU2BVQ%3d&docid=19b6bbaba28fe4320905df37e958bfc21)
 - We also discussed **greedy algorithms**, algorithms that make what seems to be the best choice at each step.
 - An example of this was explained. The **greedy change-making algorithm** chooses the number of coins per denomination using the least total number of coins.
-
+![change] (https://dlsuedu-my.sharepoint.com/personal/lea_rulloda_dlsu_edu_ph/_layouts/15/guestaccess.aspx?guestaccesstoken=584uheXf4fs1izNQk1ht%2bR9CB3Y9ZQbgMgefxwTLk4g%3d&docid=1a4899c01e1034e27855cc672975edd75)
 
 ##Week 10
 - This week we talked about the **growth of functions**.
 - **The Big-*O* Notation**
  - the upper bound of a function
  - *Common Big-O Estimates*
-
+![bigo] (https://dlsuedu-my.sharepoint.com/personal/lea_rulloda_dlsu_edu_ph/_layouts/15/guestaccess.aspx?guestaccesstoken=fAcURN%2f5J46qpr%2bArUzinTMjhqQK%2fz4jugt64zuNsiA%3d&docid=102ca0b023dc543fca83824e0a239f70a)
 - **The Big-Omega Notation**
  - the lower bound of a function
 - **The Big-Theta Notation**
@@ -169,7 +169,7 @@ q <br>
  - **Algorithm Time Complexity**
    - can be expressed in terms of the number of operations used by the algorithm when the input has a particular size
   - *Commonly Used Terminology*
-
+![complex] (https://dlsuedu-my.sharepoint.com/personal/lea_rulloda_dlsu_edu_ph/_layouts/15/guestaccess.aspx?guestaccesstoken=BjwIo7sxifB%2fnq3kAXRi3BGA3IzgVkVqaAI0oU7%2b6vE%3d&docid=11d3e720d8cb648a195a007ce384a5dc7)
 - **Division and Modulo Operator**
  - quotient
    - q = a div d

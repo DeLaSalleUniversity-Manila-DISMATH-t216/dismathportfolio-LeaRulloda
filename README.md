@@ -197,36 +197,36 @@ No classes
     - a sequence of edges that begins at a vertex of a graph and travels from vertex to vertex along edges of the graph
   - **circuit**
     - a path which ends at the vertex where it began
-  - **Handshaking Theorem**
+- **Handshaking Theorem**
     - 2e = ∑deg(v)
     - the number of edges of an undirected graph is equal to its summation of degrees divided by two
-  - **Euler Circuits and Paths**
+- **Euler Circuits and Paths**
     - The concept of euler circuits and paths was introduced to us through the Konigsberg problem which was quite interesting.
-    - **Euler Circuit**
+  - **Euler Circuit**
       - a simple circuit containing every edge of the given graph
       - The technique in knowing instantly if a graph has an euler circuit is to count the degree of the vertices.
       - all vertices have an even degree
-    - **Euler Path**
+  - **Euler Path**
       - a simple path containing every edge of the given graph
       - exactly 2 vertices have an odd degree
-  - **Hamilton Circuits and Paths**
-    - **Hamilton Circuit**
+- **Hamilton Circuits and Paths**
+  - **Hamilton Circuit**
       - contains all the vertices and goes back to the starting vertex without repetition
-    - **Hamilton Path**
+  - **Hamilton Path**
       - a path that passes through every vertex without repetition
     - Unlike Euler circuits and paths, there is no particular characteristic that all Hamilton's have.
-  - **Matrices of Graphs**
+- **Matrices of Graphs**
     - I was introduced to the **adjacency matrix** and the **incidence matrix**
-    - **Isomorphic Graphs**
+- **Isomorphic Graphs**
       - two graphs having exactly the same form, consist of a one-to-one correspondence between their vertex sets with the same edges
-  - **Planar Graphs**
+- **Planar Graphs**
     - graphs that can be represented without edges intersecting with each other
-  - **Euler Formula**
+- **Euler Formula**
     - r = e - v + 2
     - any connected planar graph can be built up from a vertex through a sequence of vertex and edge additions
-  - **Homeomorphic Graphs**
+- **Homeomorphic Graphs**
     - can be obtained from the same graph by a sequence of elementary subdivisions
-  - **Kuratowski's Theorem**
+- **Kuratowski's Theorem**
     - A graph nonplanar iff it contains a subgraph homeomorphic to K3,3 and K5.
 
 ##Week 13

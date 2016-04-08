@@ -1,4 +1,5 @@
 # My DISMATH Portfolio
+**Lea Anne R. Rulloda - EK** <br>
 dismathportfolio-LeaRulloda created by Classroom for GitHub
 ##Week 1
 - I was introduced to the course DISMATH, which is quite different from my other mathematics subjects for it deals with logic, algorithms, proofs, and other things I’m yet to learn.

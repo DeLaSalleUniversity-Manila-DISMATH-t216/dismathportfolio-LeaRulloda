@@ -178,6 +178,108 @@ q <br>
 - I was also introduced to **cryptography**, the study of secret messages.
 - An example of this namely, the **Ceasar cipher**, was discused. It is the shifting each letter three letters forward in the alphabet.
 
+##Week 11
+No classes
+
+##Week 12
+- This week's discussions are more on visual thinking and so far these are my favorite topics.
+- **Graph Theory**
+- Graph
+  – discrete structure consisting of vertices and edges that connect these vertices.
+- I learned that a variety of concepts are based on graph theory including circuits and circuit analysis.
+- I was introduced to the **basic terminologies** involved in graph theory.
+  - **degree of a vertex**
+    - number of edges incident with the given vertex
+  - **subgraph**
+    - A subgraph of a graph G = (V, E) is a graph H = (W, F), where W V and F E . A subgraph H of G is a proper subgraph of G if H G.
+  - **path**
+    - a sequence of edges that begins at a vertex of a graph and travels from vertex to vertex along edges of the graph
+  - **circuit**
+    - a path which ends at the vertex where it began
+  - **Handshaking Theorem**
+    - 2e = ∑deg(v)
+    - the number of edges of an undirected graph is equal to its summation of degrees divided by two
+  - **Euler Circuits and Paths**
+    - The concept of euler circuits and paths was introduced to us through the Konigsberg problem which was quite interesting.
+    - **Euler Circuit**
+      - a simple circuit containing every edge of the given graph
+      - The technique in knowing instantly if a graph has an euler circuit is to count the degree of the vertices.
+      - all vertices have an even degree
+    - **Euler Path**
+      - a simple path containing every edge of the given graph
+      - exactly 2 vertices have an odd degree
+  - **Hamilton Circuits and Paths**
+    - **Hamilton Circuit**
+      - contains all the vertices and goes back to the starting vertex without repetition
+    - **Hamilton Path**
+      - a path that passes through every vertex without repetition
+    - Unlike Euler circuits and paths, there is no particular characteristic that all Hamilton's have.
+  - **Matrices of Graphs**
+    - I was introduced to the **adjacency matrix** and the **incidence matrix**
+    - **Isomorphic Graphs**
+      - two graphs having exactly the same form, consist of a one-to-one correspondence between their vertex sets with the same edges
+  - **Planar Graphs**
+    - graphs that can be represented without edges intersecting with each other
+  - **Euler Formula**
+    - r = e - v + 2
+    - any connected planar graph can be built up from a vertex through a sequence of vertex and edge additions
+  - **Homeomorphic Graphs**
+    - can be obtained from the same graph by a sequence of elementary subdivisions
+  - **Kuratowski's Theorem**
+    - A graph nonplanar iff it contains a subgraph homeomorphic to K3,3 and K5.
+
+##Week 13
+  - **Graph Coloring**
+    - assignment of a color to each vertex of the graph so that no two adjacent vertices are assigned the same color
+  - **Chromatic Number**
+    - least number of colors needed in coloring a graph
+  - **Four Color Theorem**
+    - The chomatic number of a planar graph should not be greater than 4.
+  - **Trees**
+    - undirected graph which has vertices connected to each other representing a hierarchical structure
+  - **Ordered rooted tree**
+    - a tree that contains children that are ordered. The order must be the value of the child on the left side is less than the parent's value while the right side is greater than the parent's value
+  - **m-ary tree**
+    - every internal vertex has no more than m children
+  - **Properties of Trees**
+    - A tree with n vertices has n - 1 edges.
+    - A full m-ary tree with i internal vertices contains n = mi + 1 vertices.
+    - A full m-ary tree with
+	(i) n vertices has i = (n - 1)/ m internal vertices and l = [(m - 1)n + 1 ]/ m leaves,
+	(ii) i internal vertices has n = mi + 1 vertices and I = (m - 1)i + 1 leaves,
+	(iii ) l leaves has n = (ml - 1 )/(m - 1) vertices and i = (l - 1 )/(m - 1) internal vertices.
+  - **Binary Search Tree**
+    - a binary tree in which each child of a vertex is designated as a right or left child, no vertexhas more than one right child or left child, anf each vertex is labeled with a key,which is one of the items
+  - **Automata Theory**
+    - study on the laws of computation
+  - **Finite-State Machines with Output**
+    - consists of a finite set S of states, a finite input alphabet I, a finite output alphabet O, a transition function f that assigns to each state and input pair a new state, an output function g that assigns to each state and input pair an output, and an initial state s0.
+  - We discussed how a vending machine works
+  - **Finite-State Machines with No Output**
+    - A finite-state automaton M = (S, I, f, s0, F ) consists of a finite set S of states, a finite input alphabet I, a transition function f that assigns a next state to every pair of state and input (so that f : S × I → S), an initial or start state s0, and a subset F of S consisting of final (or accepting states).
+
+##Reading Assignments
+  - **Tree Traversal**
+    - process of visiting every element in a tree, exactly once
+  - **Spanning Trees**
+    - subgraph of a simple graph G that is a tree containing every vertex of G
+  - **Relations and Their Properties**
+    - Reflexive Property - every element of A is connected to itself. It also contains pairs with the form (a,a) or (b,b) etc.
+    - Symmetric Property - a is related to b implies b is related to a. The relation also contains both (a,b) and (b,a).
+    - Transitive Property - contains the pairs (a,b), (b,c) and (a,c).
+  - **n-ary Relations and Applications**
+    - there are n elements involved in the relationship
+  - **Representing Relations**
+    - using zero-one matrices
+    - using digraphs
+  - **Closures of Relations**
+    - Reflexive Closure - addition of pairs of the form (a,a)
+    - Symmetric Closure - addition of pairs of the form (b,a)
+    - Transitive Closure - equals the connectivity relation
+  - **Equivalence Relations**
+    - A relation is considered an equivalence relation if it is symmetric, transitive and reflexive.
+  - **Partial Orderings**
+    - A relation is called a partial ordering if it is antisymmetric, transitive and reflexive.
 
 
 
